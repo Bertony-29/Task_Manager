@@ -25,18 +25,18 @@ Ce projet est une solution moderne de productivité qui permet non seulement de 
 - Base de données : SQLite3 
 
 ## 🔧 Installation et Configuration
-# Cloner le dépôt :
+### Cloner le dépôt :
 - git clone https://github.com/ton-pseudo/smart-task-manager.git
 - cd smart-task-manager
 
-# Installer les dépendances :
+### Installer les dépendances :
 - pip install streamlit google-generativeai
 
-# Configuration de l'API :
+### Configuration de l'API :
 - Créez un dossier .streamlit/ à la racine et un fichier secrets.toml à l'intérieur pour y ajouter votre clé API :
   GEMINI_CLE_API = "VOTRE_CLE_API_GOOGLE"
 
-# Lancer l'application :
+### Lancer l'application :
 - streamlit run app.py
 
 ## 📂 Structure du projet
