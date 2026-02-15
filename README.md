@@ -1,10 +1,10 @@
-🚀 Smart Task-Manager (Python & AI)
+###🚀 Smart Task-Manager (Python & AI)
 Une application web interactive de gestion de tâches développée avec Streamlit, intégrant une intelligence artificielle pour l'optimisation des priorités.
 
-📋 Présentation
+###📋 Présentation
 Ce projet est une solution moderne de productivité qui permet non seulement de gérer ses tâches quotidiennes, mais aussi de bénéficier de la puissance de l'IA pour organiser son emploi du temps. L'application analyse la liste des tâches et suggère des ajustements de priorité en fonction de l'urgence et de la description des activités.
 
-✨ Fonctionnalités clés
+###✨ Fonctionnalités clés
 Interface Web Réactive : Développée avec Streamlit pour une expérience utilisateur fluide et intuitive.
 
 Organisation par IA : Intégration de l'API Google Gemini (gemini-2.5-flash) pour analyser et suggérer des priorités intelligentes.
